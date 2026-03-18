@@ -2,9 +2,7 @@
 -- @author Moochie
 -- @version 1.0
 -- @provides [main] .
--- @about
--- A script action to open FX windows for selected track(s), excluding bypassed FX
-
+-- @about - A script action to open FX windows for selected track(s), excluding bypassed FX
 
 function open_fx_windows_excluding()
     local num_tracks = reaper.CountSelectedTracks(0)
