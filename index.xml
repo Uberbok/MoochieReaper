@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="MoochieReaper" commit="a02f80c6c5de40d6e2359d190f704b3c8dddd972">  
-      <metadata><description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+<index version="1" name="MoochieReaper" commit="4d497de74924b6a61a5574309a333524d3a5bbcb">
+  <category name="MoochieScripts/Actions">
+    <reapack name="ShowChainWithExclude.lua" type="script" desc="Show FX windows exlcuiding Bypassed">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab A script action to open FX windows for selected track(s), excluding bypassed FX\sa180\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="Moochie" time="2026-03-18T18:04:54Z">
+        <source main="main">https://github.com/Uberbok/MoochieReaper/raw/4d497de74924b6a61a5574309a333524d3a5bbcb/MoochieScripts/Actions/ShowChainWithExclude.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <metadata>
+    <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
 \widowctrl\hyphauto
 
@@ -9,4 +26,6 @@
 {\pard \ql \f0 \sa180 \li0 \fi0 https://github.com/Uberbok/MoochieReaper/raw/master/index.xml\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 ..More info to follow\par}
 }
-]]></description></metadata></index>
+]]></description>
+  </metadata>
+</index>
