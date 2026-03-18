@@ -1,3 +1,10 @@
+-- @description ShowChainWithExclude
+-- @author Moochie
+-- @version 1.0
+-- @about
+-- A script action to open FX windows for selected track(s), excluding bypassed FX
+
+
 function open_fx_windows_excluding()
     local num_tracks = reaper.CountSelectedTracks(0)
     
@@ -9,7 +16,7 @@ function open_fx_windows_excluding()
             local is_bypassed = reaper.TrackFX_GetEnabled(track, fx) == false
             
             if not is_bypassed then
-                reaper.TrackFX_Show(track, fx, 3) -- Open FX window
+                reaper.TrackFX_Show(track, fx, 3)
             end
         end
     end
