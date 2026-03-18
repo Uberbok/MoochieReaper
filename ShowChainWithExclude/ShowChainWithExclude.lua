@@ -1,6 +1,7 @@
--- @description ShowChainWithExclude
+-- @description Show FX windows exlcuiding Bypassed
 -- @author Moochie
 -- @version 1.0
+-- @provides [main] .
 -- @about
 -- A script action to open FX windows for selected track(s), excluding bypassed FX
 
