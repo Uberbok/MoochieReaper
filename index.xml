@@ -1,29 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index version="1" name="MoochieReaper" commit="a02f80c6c5de40d6e2359d190f704b3c8dddd972">  
-      </metadata>
-      <version name="1.0" author="Moochie" time="2026-03-18T16:58:26Z">
-        <source main="main">https://github.com/Uberbok/MoochieReaper/raw/c2b07b3d84182ec13167d54193a18b06e7b4b30e/Example/cfillion_Hello%20world.lua</source>
-      </version>
-    </reapack>
-  </category>
-  <category name="Tools">
-    <reapack name="ShowChainWithExclude.lua" type="script" desc="Show FX windows exlcuiding Bypassed">
-      <metadata>
-        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
-{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
-\widowctrl\hyphauto
-
-{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab A script action to open FX windows for selected track(s), excluding bypassed FX\sa180\par}
-}
-]]></description>
-      </metadata>
-      <version name="1.0" author="Moochie" time="2026-03-16T23:30:32Z">
-        <source main="main">https://github.com/cfillion/reapack-repository-template/raw/58a3e39ba95bd0f35846aa1f39aa4cb2574295e1/Example/cfillion_Hello%20world.lua</source>
-      </version>
-    </reapack>
-  </category>
-  <metadata>
-    <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+      <metadata><description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
 \widowctrl\hyphauto
 
@@ -32,6 +9,4 @@
 {\pard \ql \f0 \sa180 \li0 \fi0 https://github.com/Uberbok/MoochieReaper/raw/master/index.xml\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 ..More info to follow\par}
 }
-]]></description>
-  </metadata>
-</index>
+]]></description></metadata></index>
