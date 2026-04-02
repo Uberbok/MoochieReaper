@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="MoochieReaper" commit="063e31491180b7dfab5edbb0a227035f67df816f">
+<index version="1" name="MoochieReaper" commit="0d15c3d6231534cbe5d113bb2dad74c302ddc8ad">
   <category name="MoochieScripts/Actions">
-    <reapack name="Moochie_ShowFXChainExcludingBypass.lua" type="script" desc="Show selected track(s) FX windows exlcuding Bypassed">
+    <reapack name="Moochie_ShowFXChainExcludingBypass.lua" type="script" desc="Show selected track(s) FX windows excluding Bypassed">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
