@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="MoochieReaper" commit="4d497de74924b6a61a5574309a333524d3a5bbcb">
+<index version="1" name="MoochieReaper" commit="063e31491180b7dfab5edbb0a227035f67df816f">
   <category name="MoochieScripts/Actions">
-    <reapack name="ShowChainWithExclude.lua" type="script" desc="Show FX windows exlcuiding Bypassed">
+    <reapack name="Moochie_ShowFXChainExcludingBypass.lua" type="script" desc="Show selected track(s) FX windows exlcuding Bypassed">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
@@ -11,8 +11,8 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="Moochie" time="2026-03-18T18:04:54Z">
-        <source main="main">https://github.com/Uberbok/MoochieReaper/raw/4d497de74924b6a61a5574309a333524d3a5bbcb/MoochieScripts/Actions/ShowChainWithExclude.lua</source>
+      <version name="1.0" author="Moochie" time="2026-04-02T20:49:04Z">
+        <source main="main">https://github.com/Uberbok/MoochieReaper/raw/063e31491180b7dfab5edbb0a227035f67df816f/MoochieScripts/Actions/Moochie_ShowFXChainExcludingBypass.lua</source>
       </version>
     </reapack>
   </category>
