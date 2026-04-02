@@ -1,4 +1,4 @@
--- @description Show selected track(s) FX windows exlcuding Bypassed
+-- @description Show selected track(s) FX windows excluding Bypassed
 -- @author Moochie
 -- @version 1.0
 -- @provides [main] .
