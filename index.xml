@@ -23,7 +23,7 @@
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
 \widowctrl\hyphauto
 
-{\pard \ql \f0 \sa180 \li0 \fi0 -- A tool to normalise tracks / items for input into analog emulation plugins\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 -- A tool to normalise tracks and items for input into analog emulation plugins\par}
 }
 ]]></description>
       </metadata>
