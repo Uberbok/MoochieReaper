@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="MoochieReaper" commit="7121bcea5f168ca5331c6f15f904a39d85c70a41">
+<index version="1" name="MoochieReaper" commit="a2f9f672d873a0743a76f621711a6b8c26cd4453">
   <category name="MoochieScripts/Actions">
     <reapack name="Moochie_ShowFXChainExcludingBypass.lua" type="script" desc="Show selected track(s) FX windows excluding Bypassed">
       <metadata>
@@ -13,6 +13,22 @@
       </metadata>
       <version name="1.0" author="Moochie" time="2026-04-02T20:49:04Z">
         <source main="main">https://github.com/Uberbok/MoochieReaper/raw/063e31491180b7dfab5edbb0a227035f67df816f/MoochieScripts/Actions/Moochie_ShowFXChainExcludingBypass.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Tools">
+    <reapack name="Moochie_PNB_Gain_Stage_Tool.lua" type="script" desc="Perfectly Normal Beast Gain Stage Tool">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 -- A tool to normalise tracks / items for input into analog emulation plugins\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="Moochie" time="2026-04-03T20:45:25Z">
+        <source main="main">https://github.com/Uberbok/MoochieReaper/raw/a2f9f672d873a0743a76f621711a6b8c26cd4453/Tools/Moochie_PNB_Gain_Stage_Tool.lua</source>
       </version>
     </reapack>
   </category>
