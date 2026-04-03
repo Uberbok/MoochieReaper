@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="MoochieReaper" commit="0d15c3d6231534cbe5d113bb2dad74c302ddc8ad">
+<index version="1" name="MoochieReaper" commit="7121bcea5f168ca5331c6f15f904a39d85c70a41">
   <category name="MoochieScripts/Actions">
     <reapack name="Moochie_ShowFXChainExcludingBypass.lua" type="script" desc="Show selected track(s) FX windows excluding Bypassed">
       <metadata>
@@ -7,7 +7,7 @@
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
 \widowctrl\hyphauto
 
-{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab A script action to open FX windows for selected track(s), excluding bypassed FX\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 A bindable script action to open FX windows for selected track(s), excluding bypassed FX Licencse = GPL v3\par}
 }
 ]]></description>
       </metadata>
