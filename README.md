@@ -4,4 +4,6 @@ Link for ReaPack:
 
 https://github.com/Uberbok/MoochieReaper/raw/master/index.xml
 
-..More info to follow
+If you want to treat me nice:
+
+https://buymeacoffee.com/moochie
