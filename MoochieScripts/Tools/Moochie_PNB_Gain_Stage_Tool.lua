@@ -4,6 +4,9 @@
 -- @provides [main] .
 -- @about -- A tool to normalise tracks / items for input into analog emulation plugins
 -- License = GPL v3
+--
+-- If you want to treat me nice:
+-- https://buymeacoffee.com/moochie
 
 local ctx = reaper.ImGui_CreateContext("Gain Stage Tool")
 
