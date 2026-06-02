@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="MoochieReaper" commit="7491b8deabbadb02dfb8d50531c3e346d27fb081">
+<index version="1" name="MoochieReaper" commit="4faf510c183acfcc9c59b400ebaaedfd4a5efe60">
   <category name="MoochieScripts/Actions">
     <reapack name="Moochie_ShowFXChainExcludingBypass.lua" type="script" desc="Show selected track(s) FX windows excluding Bypassed">
       <metadata>
@@ -37,7 +37,7 @@
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
 \widowctrl\hyphauto
 
-{\pard \ql \f0 \sa180 \li0 \fi0 -- A tool to normalise tracks and items for input into analog emulation plugins\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 -- A tool to normalise tracks / items for input into analog emulation plugins\par}
 }
 ]]></description>
       </metadata>
