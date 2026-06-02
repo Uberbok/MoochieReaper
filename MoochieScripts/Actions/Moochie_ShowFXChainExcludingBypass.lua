@@ -5,6 +5,9 @@
 -- @about 
 --     A bindable script action to open FX windows for selected track(s), excluding bypassed FX
 --     Licencse = GPL v3
+--
+-- If you want to treat me nice:
+-- https://buymeacoffee.com/moochie
 
 function open_fx_windows_excluding()
     local num_tracks = reaper.CountSelectedTracks(0)
