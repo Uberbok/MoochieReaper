@@ -1,12 +1,10 @@
 -- @description Perfectly Normal Beast Gain Stage Tool
 -- @author Moochie
--- @version 1.0
+-- @version 1.01
+--        Removed Collapse button to prevent crash
 -- @provides [main] .
 -- @about -- A tool to normalise tracks / items for input into analog emulation plugins
 -- License = GPL v3
---
--- If you want to treat me nice:
--- https://buymeacoffee.com/moochie
 
 local ctx = reaper.ImGui_CreateContext("Gain Stage Tool")
 
@@ -918,8 +916,10 @@ function loop()
     last_time = now
 
     reaper.ImGui_SetNextWindowSize(ctx, 720, 520, reaper.ImGui_Cond_Appearing())
+    
+    local windowFlags = reaper.ImGui_WindowFlags_NoCollapse() |  reaper.ImGui_WindowFlags_NoDocking()
 
-    local visible, open = reaper.ImGui_Begin(ctx, "PNB Gain Stage Tool", true, reaper.ImGui_WindowFlags_NoDocking())
+    local visible, open = reaper.ImGui_Begin(ctx, "PNB Gain Stage Tool", true, windowFlags)
 
     if analyzing then
         analyze_step()
