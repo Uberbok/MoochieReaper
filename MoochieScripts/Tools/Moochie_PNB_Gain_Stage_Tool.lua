@@ -1,10 +1,10 @@
 -- @description Perfectly Normal Beast Gain Stage Tool
 -- @author Moochie
 -- @version 1.01
---        Removed Collapse button to prevent crash
 -- @provides [main] .
 -- @about -- A tool to normalise tracks / items for input into analog emulation plugins
 -- License = GPL v3
+-- Changelog - 1.01 - Removed Collapse button to prevent crash
 
 local ctx = reaper.ImGui_CreateContext("Gain Stage Tool")
 
