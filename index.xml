@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="MoochieReaper" commit="4faf510c183acfcc9c59b400ebaaedfd4a5efe60">
+<index version="1" name="MoochieReaper" commit="ee5fa08decd3145a33aeebe6d8e38ac6145af227">
   <category name="MoochieScripts/Actions">
     <reapack name="Moochie_ShowFXChainExcludingBypass.lua" type="script" desc="Show selected track(s) FX windows excluding Bypassed">
       <metadata>
@@ -43,6 +43,9 @@
       </metadata>
       <version name="1.0" author="Moochie" time="2026-04-03T20:48:01Z">
         <source main="main">https://github.com/Uberbok/MoochieReaper/raw/97000ba1899bb397d29279220b4acf1a9a1a610b/MoochieScripts/Tools/Moochie_PNB_Gain_Stage_Tool.lua</source>
+      </version>
+      <version name="1.01" author="Moochie" time="2026-07-28T18:55:24Z">
+        <source main="main">https://github.com/Uberbok/MoochieReaper/raw/ee5fa08decd3145a33aeebe6d8e38ac6145af227/MoochieScripts/Tools/Moochie_PNB_Gain_Stage_Tool.lua</source>
       </version>
     </reapack>
   </category>
