@@ -5,9 +5,7 @@
 -- @about 
 --     A bindable script action to tile visible floating FX windows
 --     Licencse = GPL v3
---
--- If you want to treat me nice:
--- https://buymeacoffee.com/moochie
+
 
 local windows = {}
 
